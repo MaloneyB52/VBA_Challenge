@@ -1,6 +1,6 @@
 # VBA_Challenge
 
-Overview of Project: The purpose of this analysis was to present dtate of the stoick market for the last few years to allow Steve and his parents to easily track volume in the stock market as an indicator of accurate trading prices.
+Overview of Project: The purpose of this analysis was to present date of the stock market for the last few years to allow Steve and his parents to easily track volume in the stock market as an indicator of accurate trading prices.
 
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
